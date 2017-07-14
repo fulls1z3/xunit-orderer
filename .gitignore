@@ -1,0 +1,31 @@
+﻿# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+[Xx]64/
+[Xx]86/
+[Bb]uild/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# NuGet
+*.nupkg
+packages/
+
+# IDEs and editors
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# build tools
+
+# misc
+.vs/
+*.pdb
+*.tmp
+*.log
