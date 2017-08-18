@@ -21,7 +21,6 @@ Install-Package XunitOrderer
 ```
 
 ## Usage
-
 #### AssemblyInfo.cs
 ```csharp
 using System.Reflection;
@@ -83,6 +82,13 @@ The execution order of the `fact`s are:
 - TestClass2 -> Fourth
 
 > Built with `.NET Framework v4.6.2`, solution currently supports `xUnit v2.2.0`.
+
+## Contributing
+If you want to file a bug, contribute some code, or improve documentation, please read up on the following contribution guidelines:
+- [Issue guidelines](CONTRIBUTING.md#submit)
+- [Contributing guidelines](CONTRIBUTING.md)
+- [Coding rules](CONTRIBUTING.md#rules)
+- [ChangeLog](CHANGELOG.md)
 
 ## License
 The MIT License (MIT)
